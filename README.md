@@ -1,4 +1,2 @@
-# Fortnite-Website
-A go at making a fortnite website, from a github/coding novice.
-
-I will be using codeanywhere.com to try to make the website. I will also be using/ learning ruby on rails. Hopefully this works :)
+# Web Application
+A go at making a web app, I currently do not know what about but I will update once I have figured this out.
